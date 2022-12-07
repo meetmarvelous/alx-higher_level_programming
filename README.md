@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Introduction to Python, a high level Programming language. 
+# Simple Projects in Python Programming Language
